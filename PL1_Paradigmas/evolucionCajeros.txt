@@ -1,0 +1,11 @@
+------------------------------------------LOG DE PROGRAMA SISTEMA CAJEROS------------------------------------------------
+ Se ha creado el fichero 14/12/2023 19:32:35                                                                                                
+ID/Persona--------/IDCaj/totalCajero
+1/Persona1-E-6000/0/44000
+2/Persona2-E-8000/1/42000
+3/Persona3-E-6000/2/44000
+4/Persona4-E-9000/3/41000
+5/Persona5-I+8000/0/52000
+6/Persona6-I+6000/1/48000
+7/Persona7-I+9000/2/53000
+8/Persona8-E-8000/3/33000
